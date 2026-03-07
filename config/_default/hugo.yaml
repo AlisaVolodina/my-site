@@ -6,7 +6,7 @@
 # Website name (my site)
 title: ''
 # Website URL
-baseURL: 'https://alisavolodina.github.io/my-site/'
+baseURL: 'https://github.com/AlisaVolodina/my-site.git'
 
 ############################
 ## LANGUAGE
