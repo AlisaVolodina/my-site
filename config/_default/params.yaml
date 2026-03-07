@@ -31,13 +31,12 @@ hugoblox:
   # Color and visual design system
   # ────────────────────────────────────────────────────────────────────────────
   theme:
-    # Mode: 'light', 'dark', or 'system' (follows OS preference)
     mode: system
     # Theme pack: name from data/themes/ or { light: "x", dark: "y" } for mix-and-match
     pack: "default"
     # Optional: Override theme pack colors
     colors:
-      primary: ""                       # Tailwind palette name or hex (e.g., "indigo" or "#6366f1")
+      primary: "indigo"                       # Tailwind palette name or hex (e.g., "indigo" or "#6366f1")
       secondary: ""
       neutral: ""                       # Affects gray utilities (text-gray-*, bg-gray-*)
     # Optional: Mode-specific color overrides
@@ -129,15 +128,12 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   seo:
     # Browser tab title override (defaults to identity.name if not set)
-    title: ""
+    title: "Alisa Volodina"
     # For local_business identity type only
     location:
       address:
         street: ""
         city: ""
-        region: ""
-        postal_code: ""
-        country: ""
       coordinates:
         latitude: null
         longitude: null
