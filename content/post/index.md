@@ -1,0 +1,7 @@
+---
+title: My first blog post
+date: 2026-03-07
+---
+
+Hello world 
+
